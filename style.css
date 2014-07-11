@@ -67,10 +67,13 @@ a:hover, a:focus {
 }
 
 .container {
-    width: 60%;
     margin: 0 auto 100px;
 }
 
 @media screen and (min-width: 0) {
     .container {width: 80%;}
+}
+
+@media screen and (min-width: 500px) {
+    .container {width: 60%;}
 }
