@@ -39,20 +39,20 @@
 
 
 body {
-  background: white;
-  font-size: 24px;
-  color: black;
-  font-family: "adelle";
-  font-weight: 300;
+    background: white;
+    font-size: 24px;
+    color: black;
+    font-family: "adelle";
+    font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #237cbe;
-  font-family: "PlutoSansRegular", sans-serif;
+    color: #237cbe;
+    font-family: "PlutoSansRegular", sans-serif;
+    text-transform: uppercase;
 }
 
 h6 {
-    text-transform: uppercase;
     color: #666;
     margin: 0;
 }
@@ -69,4 +69,8 @@ a:hover, a:focus {
 .container {
     width: 60%;
     margin: 0 auto 100px;
+}
+
+@media screen and (min-width: 0) {
+    .container {width: 80%;}
 }
