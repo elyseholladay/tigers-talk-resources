@@ -41,34 +41,42 @@
 body {
     background: white;
     font-size: 24px;
-    color: black;
-    font-family: "adelle-1", "adelle", "Cambria", "Georgia", serif;
-    font-weight: 300;
+    color: #222;
+    font-family: "adelle-1", "adelle", "Adelle", Cambria, Georgia, serif;
+    font-weight: 100;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #237cbe;
-    font-family: "PlutoSansRegular", sans-serif;
-    text-transform: uppercase;
+    color: #222;
+    font-family: "PlutoSansCondRegular", sans-serif;
+    /*text-transform: uppercase;*/
+    font-weight: normal;
+    margin-bottom: 1em;
+    margin-top: 2em;
 }
 
 h6 {
-    color: #666;
+    color: white;
     margin: 0;
 }
 
 a, a:active, a:visited {
     text-decoration: none;
-    color: #993399;;
+    color: #993399;
 }
 
 a:hover, a:focus {
-    color: #9bc33f;
+    color: #0f59b4;
 }
 
 .container {
-    margin: 0 auto 100px;
+    margin: 3em auto 6em;
 }
+
+.container img {
+    max-width: 100%;
+}
+
 
 @media screen and (min-width: 0) {
     .container {width: 80%;}
