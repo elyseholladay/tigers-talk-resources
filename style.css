@@ -1,12 +1,95 @@
+/* PLUTO SANS CONDENSED ----------------------------- */
+
+/* Pluto Sans Condensed Thin */
+@font-face {
+    font-family: 'pluto-sans-condensed-thin';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-thin.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-thin.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-thin.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-thin.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-thin.svg#pluto-sans-condensed-thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+/* Pluto Sans Condensed Extra Light */
+@font-face {
+    font-family: 'pluto-sans-condensed-exlight';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-exlight.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-exlight.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-exlight.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-exlight.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-exlight.svg#pluto-sans-condensed-exlight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+/* Pluto Sans Condensed Light */
+@font-face {
+    font-family: 'pluto-sans-condensed-light';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-light.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-light.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-light.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-light.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-light.svg#pluto-sans-condensed-light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+/* Pluto Sans Condensed Regular */
+@font-face {
+    font-family: 'pluto-sans-condensed-regular';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-regular.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-regular.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-regular.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-regular.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-regular.svg#pluto-sans-condensed-regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+/* Pluto Sans Condensed Medium */
+@font-face {
+    font-family: 'pluto-sans-condensed-medium';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-medium.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-medium.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-medium.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-medium.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans-condensed/pluto-sans-condensed-medium.svg#pluto-sans-condensed-medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+
+
+/* PLUTO SANS --------------------------------------- */
+
 
 
 @font-face {
-    font-family: 'PlutoSansExtraLight';
-    src: url('http://elyseholladay.com/fonts/plutosans_exlight.eot');
-    src: url('http://elyseholladay.com/fonts/plutosans_exlight.eot?#iefix') format('embedded-opentype'),
-         url('http://elyseholladay.com/fonts/plutosans_exlight.woff') format('woff'),
-         url('http://elyseholladay.com/fonts/plutosans_exlight.ttf') format('truetype'),
-         url('http://elyseholladay.com/fonts/plutosans_exlight.svg#PlutoSansExtraLight') format('svg');
+    font-family: 'pluto-sans-thin';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-thin.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-thin.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-thin.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-thin.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-thin.svg#pluto-sans-thin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'pluto-sans-extralight';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-extralight.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-extralight.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-extralight.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-extralight.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-extralight.svg#pluto-sans-extralight') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -14,41 +97,60 @@
 
 
 @font-face {
-    font-family: 'PlutoSansRegular';
-    src: url('http://elyseholladay.com/fonts/plutosans_regular.eot');
-    src: url('http://elyseholladay.com/fonts/plutosans_regular.eot?#iefix') format('embedded-opentype'),
-         url('http://elyseholladay.com/fonts/plutosans_regular.woff') format('woff'),
-         url('http://elyseholladay.com/fonts/plutosans_regular.ttf') format('truetype'),
-         url('http://elyseholladay.com/fonts/plutosans_regular.svg#PlutoSansRegular') format('svg');
+    font-family: 'pluto-sans-light';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-light.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-light.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-light.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-light.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-light.svg#pluto-sans-light') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
 
 @font-face {
-    font-family: 'PlutoSansBold';
-    src: url('http://elyseholladay.com/fonts/plutosans_bold.eot');
-    src: url('http://elyseholladay.com/fonts/plutosans_bold.eot?#iefix') format('embedded-opentype'),
-         url('http://elyseholladay.com/fonts/plutosans_bold.woff') format('woff'),
-         url('http://elyseholladay.com/fonts/plutosans_bold.ttf') format('truetype'),
-         url('http://elyseholladay.com/fonts/plutosans_bold.svg#PlutoSansBold') format('svg');
+    font-family: 'pluto-sans-medium';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-medium.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-medium.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-medium.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-medium.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-medium.svg#pluto-sans-medium') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
+@font-face {
+    font-family: 'pluto-sans-regular';
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-regular.eot');
+    src: url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-regular.eot?#iefix') format('embedded-opentype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-regular.woff') format('woff'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-regular.ttf') format('truetype'),
+         url('http://www.elyseholladay.com/fonts/pluto-sans/pluto-sans/pluto-sans-regular.svg#pluto-sans-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
 
 
 body {
     background: white;
     font-size: 24px;
     color: #222;
-    font-family: "adelle-1", "adelle", "Adelle", Cambria, Georgia, serif;
+    font-family: "pluto-sans-condensed-light", Impact, sans-serif;
     font-weight: 100;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #222;
-    font-family: "PlutoSansCondRegular", sans-serif;
+    font-family: "pluto-sans-condensed-medium", Impact, sans-serif;
     /*text-transform: uppercase;*/
     font-weight: normal;
     margin-bottom: 1em;
